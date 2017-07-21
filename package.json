@@ -1,0 +1,12 @@
+{
+  "name": "rtmp-twitch-grabber",
+  "version": "0.0.0",
+  "description": "NPM packages for rtmp-twitch-grabber",
+  "private": false,
+  "author": "Glenn de Haan",
+  "license": "MIT",
+  "dependencies": {
+    "simple-node-logger": "^0.93.28",
+    "twitch-api": "^0.4.6"
+  }
+}
